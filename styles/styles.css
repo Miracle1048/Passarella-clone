@@ -14,6 +14,10 @@ header{
     
     
 }
+.col-4 a{
+    text-decoration: none;
+    color: black;
+}
 
 .parent{
     /* border: 1px solid #8CB6C0;
@@ -122,6 +126,9 @@ header{
     width: 100%;
     height: 100%;
 }
+.pic p{
+    text-align: center;
+} 
 
 .text-1{
     /* border: 1px solid; */
